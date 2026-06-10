@@ -126,7 +126,7 @@ JWT_SECRET=your_secret_key
 
 ### 📚 Books Collection
 
-![Books Collection](screenshots/book.png)
+![Books Collection](screenshots/book1.png)
 
 ### 🔐 Login Page
 
